@@ -16,7 +16,7 @@ This is a release of the code of our paper ultimodal ***Contrastive Learning for
 ## Prepare the data
 - Dataset: [ModelNet40](https://modelnet.cs.princeton.edu/), download it from [Official Site](https://shapenet.cs.stanford.edu/media/modelnet40_normal_resampled.zip) .
 - Dataset: [ShapeNet part](https://shapenet.cs.stanford.edu/iccv17/#dataset), download it from [Official Site](https://shapenet.cs.stanford.edu/media/shapenetcore_partanno_segmentation_benchmark_v0_normal.zip).
-- - Dataset: [ScanObjectNN](http://103.24.77.34/scanobjectnn/h5_files.zip), download it from [Official Site](http://103.24.77.34/scanobjectnn/h5_files.zip).
+- Dataset: [ScanObjectNN](http://103.24.77.34/scanobjectnn/h5_files.zip), download it from [Official Site](http://103.24.77.34/scanobjectnn/h5_files.zip).
 
 ## Run Code
         #Classification
