@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a release of the code of our paper ultimodal ***Contrastive Learning for 3D Object Classification and Part-segmentation by Leveraging V-LLM and CNNs***.
+This is a release of the code of our paper ultimodal ***Contrastive Learning for 3D Object Classification and Part-segmentation by Leveraging V-LLM and CNNs***.https://onlinelibrary.wiley.com/doi/epdf/10.1111/phor.70006
 
 ## Environment:
 - PyTorch 1.10
@@ -24,4 +24,3 @@ This is a release of the code of our paper ultimodal ***Contrastive Learning for
         
         #Part-segmentation
         train_part_seg.py
-
